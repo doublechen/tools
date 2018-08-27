@@ -1,0 +1,5 @@
+{
+    "require": {
+        "moon/artisan": "1.8"
+    }
+}
